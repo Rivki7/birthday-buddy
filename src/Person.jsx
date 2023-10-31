@@ -4,7 +4,7 @@ const Person = ({ name, age, image }) => {
       <img src={image} alt={name} className="img" />
       <div>
         <h4>{name}</h4>
-        <p>{age}</p>
+        <p>{age} years</p>
       </div>
     </article>
   );

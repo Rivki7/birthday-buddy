@@ -10,7 +10,7 @@ const App = () => {
   return (
     <main>
       <section className="container">
-        <h3>{people.length} birthdays today</h3>
+        <h3>{people.length} birthdays today 🎂</h3>
         <People people={people} />
         <button type="button" className="btn btn-block" onClick={handleClick}>
           clear all
