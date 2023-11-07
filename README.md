@@ -3,6 +3,8 @@
 [Go to live demo](https://birthday-buddy-rivki.netlify.app/)
 
 This is a simple React project built with Vite. I created this project as part of React course on Udemy by John Smilga. It serves as a practice exercise for utilizing the useState hook in React.
+![image](https://github.com/Rivki7/birthday-buddy/assets/117110504/fceb6bdf-5324-4bee-99d8-041638da7013)
+
 
 ## Project Description
 
